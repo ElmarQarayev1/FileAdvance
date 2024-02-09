@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/bin/Debug/net7.0/FileAdvance
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/bin/Debug/net7.0/FileAdvance.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/bin/Debug/net7.0/FileAdvance.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/bin/Debug/net7.0/FileAdvance.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/bin/Debug/net7.0/FileAdvance.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/refint/FileAdvance.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/FileAdvance.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/FileAdvance/FileAdvance/FileAdvance/obj/Debug/net7.0/ref/FileAdvance.dll
